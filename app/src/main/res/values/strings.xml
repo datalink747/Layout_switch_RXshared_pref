@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Layout switch with RXshared pref</string>
+    <string name="action_settings">Settings</string>
+</resources>
