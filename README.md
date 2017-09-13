@@ -10,7 +10,8 @@ Android RecyclerView: Change layout Manager file LIST to GRID and save result in
 * List layout :</br>
 <img src="list_layout.png" height="402" width="302">
 <br>
-# Code in Kotlin:
+
+# Code in Java:
 
 * Init RxSharedpref :
 ```java
